@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="dbms">
+      <UniqueIdentifier>{325a487b-2a82-44ba-856c-1a7e1258a9dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dbms\Header Files">
+      <UniqueIdentifier>{65bb4ed1-cb27-45da-ac09-056373942ce7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dbms\Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\dbms\Columna.h">
+      <Filter>dbms\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\dbms\Entidad.h">
+      <Filter>dbms\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\dbms\ForeignKey.h">
+      <Filter>dbms\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\dbms\IOInterface.h">
+      <Filter>dbms\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\dbms\PrimaryKey.h">
+      <Filter>dbms\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\dbms\stdafx.h">
+      <Filter>dbms\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\dbms\targetver.h">
+      <Filter>dbms\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\dbms\Autoincremento.h">
+      <Filter>dbms\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\dbms\Datatype.h">
+      <Filter>dbms\Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\dbms\Autoincremento.cpp">
+      <Filter>dbms\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\dbms\Columna.cpp">
+      <Filter>dbms\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\dbms\Entidad.cpp">
+      <Filter>dbms\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\dbms\ForeignKey.cpp">
+      <Filter>dbms\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\dbms\main.cpp">
+      <Filter>dbms\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\dbms\PrimaryKey.cpp">
+      <Filter>dbms\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\dbms\stdafx.cpp">
+      <Filter>dbms\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\dbms\Datatype.cpp">
+      <Filter>dbms\Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>
