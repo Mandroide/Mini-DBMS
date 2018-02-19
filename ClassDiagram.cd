@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="dbms::Autoincremento" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAEAAIAAAAIAEAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\dbms\Autoincremento.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dbms::Columna" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIAAAAAAAAQIAEAgCAEhAAAAAIAAAAAASAAAAAAIgA=</HashCode>
+      <FileName>src\dbms\Columna.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dbms::Datatype" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAABBIAKAEAAAQhACkBQAAAQAIAAEAAAAAAAAIAAA=</HashCode>
+      <FileName>src\dbms\Datatype.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dbms::Entidad" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggFwhAEQAQAQBAAABCgEhABAEAIAAAAAAQAiAAABAgA=</HashCode>
+      <FileName>src\dbms\Entidad.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dbms::ForeignKey" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACABAEgAICAABAAAAAIBAAAAAQAgAAAAAgA=</HashCode>
+      <FileName>src\dbms\ForeignKey.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dbms::PrimaryKey" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAQAIAAEEgCAABAAAAAIAAAAAAQAAAAAAggA=</HashCode>
+      <FileName>src\dbms\PrimaryKey.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IOInterface" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAABAAAAAAACAABAAAIAAAAAAAAQBAAAAAAAA=</HashCode>
+      <FileName>src\dbms\IOInterface.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
